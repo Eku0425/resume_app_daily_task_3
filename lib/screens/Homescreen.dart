@@ -170,6 +170,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                 ),
               ),
+
               ListTile(
                 leading: Icon(Icons.settings),
                 title: Text(
